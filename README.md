@@ -1,4 +1,4 @@
-# Apparel Retail 360: Databricks DLT Streaming Medallion Pipeline
+# Databricks DLT Streaming Medallion Pipeline
 
 This project simulates an apparel retailer’s analytics backend. It continuously generates sales and dimension data, ingests it as streams, enforces data-quality rules, tracks historical dimension changes (SCD Type 2), and publishes curated Gold tables for reporting and analysis.
 
